@@ -1,2 +1,5 @@
 # AlgorithmTraining
-As a set of valuable algorithm training when studying data structure and algorithm using Java.
+
+- 2016.06.18
+
+更新了快速排序和冒泡排序。
