@@ -1,5 +1,9 @@
 # AlgorithmTraining
 
+- 2016.07.13
+
+更新了“统计某字符串在另一个字符串中出现的次数”。
+
 - 2016.07.02
 
 更新了汉诺塔算法，以 4 个盘子为例，这篇博客[汉诺塔问题](http://www.cnblogs.com/antineutrino/p/3334540.html)讲得不错。
