@@ -6,7 +6,7 @@ public class StackImpl<T> {
     // 栈的容量
     private int mCapacity;
 
-    // 存放栈中元素的数组
+    // 存放栈元素的数组
     private Object[] mElements;
 
     public StackImpl(int capacity) {
